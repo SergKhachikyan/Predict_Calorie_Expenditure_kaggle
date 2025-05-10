@@ -79,6 +79,9 @@ This project uses the following technologies:
 - **Model Predictions**: Compare predicted calorie expenditure with actual values.
 - **Feature Importance**: Visualize the importance of different features in the prediction.
 
+![calorie](https://github.com/user-attachments/assets/7287505e-87ba-42c6-b9d2-860165158602)
+
+
 ---
 
 ## 🤝 Contributing
